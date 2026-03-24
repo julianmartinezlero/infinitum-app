@@ -1,6 +1,6 @@
 ## build
 
-pyinstaller --onefile --windowed --name="Infinitum APP" main.py
+pyinstaller --onefile --windowed --icon=mi_icono.ico --name="Infinitum APP" main.py
 
 ## run
 
